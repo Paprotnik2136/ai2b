@@ -1,0 +1,18 @@
+#frame {
+  border: 2px dotted red;
+  padding: 15px;
+  margin: 15px;
+  padding: 1rem;
+}
+
+#frame > button {
+  margin: 0 10px;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
